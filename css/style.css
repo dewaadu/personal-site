@@ -145,11 +145,15 @@ h5:hover{
       margin-top: 0px;
       }.linkicons{
        margin-left: 450px;
-       background-color: white; 
-   }.twitter{
+      }.twitter{
        
        margin-left: 20px;
 margin-right: 20px;
+    }ion-icon{
+        color: white;
+        font-size: 23px;
+    }ion-icon:hover{
+color: #087e8b;
     }
     @media(max-device-width:500px){
          .navbar{
@@ -224,7 +228,8 @@ margin-right: 20px;
             margin-bottom: 20px;
             font-size: 18px;
         }.linkicons{
-            margin-left: 160px;
+            margin-top: 12px;
+            margin-left: 120px;
         }.btn{
             margin-left:-40px;
         }.contact{

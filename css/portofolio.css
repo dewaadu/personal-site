@@ -37,6 +37,7 @@
 .port-pad{
     
     width: 100%;
+    padding-top: 70px;
     
     
 }.port-pad2{
@@ -102,12 +103,19 @@
         margin-bottom: 0px;
     }.mobimg{
         position: absolute;
-        bottom: 530px;
+        bottom: 560px;
         right: 10px;
         width: 190%;
     }.mobtext{
-        margin-top: 370px;
-    }.rest-row{
+        margin-top: 270px;
+    }.easy-img{
+        margin-top: 100px;
+    }.dice-port-text{
+        padding-top: -100px;
+    }.dice-port{
+        margin-top: -50px;
+    }
+    .rest-row{
         margin-top: 10px;
     }.slide-text{
         margin-left: 10px;
@@ -121,5 +129,9 @@
         margin-bottom: 20px;
     }.contact{
         margin-top: -20px;
+    }.linkicons{
+        margin-left: 100px;
+    }.port-pad{
+        padding-top: 10px;
     }
 }
