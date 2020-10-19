@@ -88,13 +88,14 @@ h5:hover{
        opacity: 0.8;
    }
    .aboutbtn{
-       margin-top: 30px;
+       margin-top: 20px;
        background-color:#fafafa;
        height: 48px;
        width: 190px;
        font-family:  "Public Sans", sans-serif;
        font-size: 1.2rem;
        letter-spacing: 2px;
+       margin-bottom: 20px;
        
    }.aboutbtn:hover{
        background-color:#33323d;
@@ -154,6 +155,12 @@ margin-right: 20px;
         font-size: 23px;
     }ion-icon:hover{
 color: #087e8b;
+    }.fa{
+        margin-right: 13px;
+    }.tel-link{
+       color: black;
+    }.fa:hover{
+        color: #087e8b;
     }
     @media(max-device-width:500px){
          .navbar{
