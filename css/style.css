@@ -157,14 +157,11 @@ color: #087e8b;
     }
     @media(max-device-width:500px){
          .navbar{
-            margin-left: 230px;
             margin-right: 10px;
-        }
-        .imglogo{
-
-            position: absolute;
-            right: 260px;
-            top: 55px;
+            margin-left: 10px;
+        }.navbar-nav{
+            margin-left: 0px;
+            padding-left: 0;
         }
         .homeimg{
             display: none;
@@ -230,6 +227,7 @@ margin-right: 20px;
         }.linkicons{
             margin-top: 12px;
             margin-left: 120px;
+            padding-bottom: 20px;
         }.btn{
             margin-left:-40px;
         }.contact{
